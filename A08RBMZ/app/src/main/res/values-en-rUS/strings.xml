@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A08RBMZ</string>
+    <string name="controlar">Control</string>
+    <string name="pregunta">What number you saw?</string>
+    <string name="pista">Enter the number</string>
+    <string name="bien">Very good!\nYou remember the number that I showed</string>
+    <string name="mal">I am sorry but...\nThis is not the number that I showed</string>
+</resources>

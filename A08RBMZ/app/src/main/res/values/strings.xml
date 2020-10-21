@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A08RBMZ</string>
+    <string name="controlar">Controlar</string>
+    <string name="pregunta">¿Cual numero viste?</string>
+    <string name="pista">Ingresa el numero</string>
+    <string name="bien">Muy bien!\nRecordaste el numero que mostré</string>
+    <string name="mal">Lo siento pero...\nNo es el numero que mostré</string>
+</resources>
